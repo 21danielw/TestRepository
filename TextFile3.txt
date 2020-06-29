@@ -1,1 +1,2 @@
 This is Text File 3, a file.
+It is a short file.
